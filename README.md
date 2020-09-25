@@ -1,5 +1,7 @@
 # COVID19RL20
 
+This repository is for the paper (doi://).
+
 Folder "RAW" : 
 The files in 'raw' are 
 1) the time series data of confirmed, recovered, and deceased cases from Johns Hopkinsons Data Repository, and
