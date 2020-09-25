@@ -2,8 +2,8 @@
 
 - Folder "RAW" : 
 The files in 'raw' are 
-1) the time series data of confirmed, recovered, and deceased cases from Johns Hopkinsons Data Repository, and
-2) population size, population density, medium-term population (15 to 65 years old), gross domestic product (GDP), geological information (longitude, latitude), and life expectancy obtained from official publications through the United Nations database, Wikipedia, and news.
+- 1) the time series data of confirmed, recovered, and deceased cases from Johns Hopkinsons Data Repository, and
+- 2) population size, population density, medium-term population (15 to 65 years old), gross domestic product (GDP), geological information (longitude, latitude), and life expectancy obtained from official publications through the United Nations database, Wikipedia, and news.
 However, I would like to mention that unlike the timeline in which this study was conducted, it is now possible to collect this or more detailed and interesting data from the WHO site.
 (https://covid19.who.int/?gclid=CjwKCAjwh7H7BRBBEiwAPXjadmevUeNji5pXVlH3sVnnIE70wSOsN4-EqkQ_DEAeU6sZK2hohUkySxoC2OwQAvD_BwE).
 
