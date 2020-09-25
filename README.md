@@ -10,7 +10,7 @@ However, I would like to mention that unlike the timeline in which this study wa
 Folder "Preprocessed" : 
 The data includes all of the above. After merging all the tables, we adjusted the data to [0,1] and anonymized the country name.
 Severitylevel is defined as the crude death rate due to COVID-19 reported on 7th April 2020 (See more details from the following paper doi://).
-It is used as an indicator of the overall crisis severity level and divided into four levels (low/medium/high/critical level of severity).
+It is used as an indicator of the overall crisis severity level and divided into four levels.
 
 Folder "Analysis" : 
 The folder contains step-by-step analysis process.
