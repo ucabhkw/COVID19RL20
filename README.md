@@ -4,8 +4,9 @@ This repository is for the paper (doi://).
 
 ### Folder "RAW" : 
 The files in 'raw' are  ...
-the time series data of confirmed, recovered, and deceased cases from Johns Hopkinsons Data Repository, and
-population size, population density, medium-term population (15 to 65 years old), gross domestic product (GDP), geological information (longitude, latitude), and life expectancy obtained from official publications through the United Nations database, Wikipedia, and news.
+the time series data of tested, confirmed, recovered, and deceased cases from Johns Hopkinsons Data Repository, and
+population data, gross domestic product (GDP), geological information (longitude, latitude), life expectancy,
+policies given by governments obtained from official publications through the United Nations database, Wikipedia, and news.
 
 Data sources are as follows:   
 #### (1) Index case date (date of the first confirmed patient) : 
