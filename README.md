@@ -2,7 +2,7 @@
 
 This repository is for the paper (doi://).
 
-### Folder "RAW" : 
+### Folder [RAW] : 
 The files in 'raw' are  ...
 the time series data of tested, confirmed, recovered, and deceased cases from Johns Hopkinsons Data Repository, and
 population data, gross domestic product (GDP), geological information (longitude, latitude), life expectancy,
@@ -42,12 +42,12 @@ Data sources are as follows:
   
 However, I would like to mention that unlike the timeline in which this study was conducted, it is now possible to collect this or more detailed and interesting data from the WHO site and some others (https://covid19.who.int/table, https://console.cloud.google.com/marketplace/browse?filter=category:covid19&rif_reserved).
 
-### Folder "Preprocessed" : 
+### Folder [Preprocessed] : 
 The data includes all of the above. After merging all the tables, we adjusted the data to [0,1] and anonymized the country name.
 Severitylevel is defined as the crude death rate due to COVID-19 reported on 7th April 2020 (See more details from the following paper doi://).
 It is used as an indicator of the overall crisis severity level and divided into four levels.
 
-### Folder "Analysis" : 
+### Folder [Analysis] : 
 The folder contains step-by-step analysis process.
 As explained in the paper, we adapted and worked on the network in the previous papers, mainly tuning (https://github.com/darkefyre/sepsisrl/) for the network architecture.
 
