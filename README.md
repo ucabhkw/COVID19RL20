@@ -33,6 +33,7 @@ Data sources are as follows:
 - Wikipedia : https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic.
 - UN : https://data.un.org.
 - IHME (The Institute for Health Metrics and Evaluation): http://www.healthdata.org/.
+- World Bank Data : https://data.worldbank.org/.
 
 #### (6) Life expectancy :
 - WHO : https://apps.who.int/gho/data/view.main.SDG2016LEXv?lang=en.
