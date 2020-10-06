@@ -43,7 +43,7 @@ Data sources are as follows:
 However, I would like to mention that unlike the timeline in which this study was conducted, it is now possible to collect this or more detailed and interesting data from the WHO site and some others (https://covid19.who.int/table, https://console.cloud.google.com/marketplace/browse?filter=category:covid19&rif_reserved).
 
 ### Folder [Preprocessed] : 
-The data includes all of the above. After merging all the tables, we adjusted the data to [0,1] and anonymized the country name.
+The data includes all of the above. If there was more than one data source, the authors compared each other. Data was maintained as the country/territory level according to the list of countries and regions used by WHO in the report. After merging all the tables, we adjusted the data to [0,1] and anonymized the country name.
 Severitylevel is defined as the crude death rate due to COVID-19 reported on 7th April 2020 (See more details from the following paper doi://).
 It is used as an indicator of the overall crisis severity level and divided into four levels.
 
