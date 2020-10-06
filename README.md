@@ -2,16 +2,16 @@
 
 This repository is for the paper (doi://).
 
-# Folder "RAW" : 
+## Folder "RAW" : 
 The files in 'raw' are  ...
 the time series data of confirmed, recovered, and deceased cases from Johns Hopkinsons Data Repository, and
 population size, population density, medium-term population (15 to 65 years old), gross domestic product (GDP), geological information (longitude, latitude), and life expectancy obtained from official publications through the United Nations database, Wikipedia, and news.
 
-## Data sources are as follows:   
-## (1) Index case date (date of the first confirmed patient) : 
-## - Johns Hopkins coronavirus data repository : https://github.com/CSSEGISandData/COVID-19.
-## - WHO’s case reports : https://www.who.int/emergencies/diseases/novel-coronavirus-2019.
-## - Wikipedia : https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic.
+ Data sources are as follows:   
+#### (1) Index case date (date of the first confirmed patient) : 
+ - Johns Hopkins coronavirus data repository : https://github.com/CSSEGISandData/COVID-19.
+ - WHO’s case reports : https://www.who.int/emergencies/diseases/novel-coronavirus-2019.
+ - Wikipedia : https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic.
 
 (2) The number of test, confirmed infection, recovery and death : 
 - Johns Hopkins coronavirus data repository : https://github.com/CSSEGISandData/COVID-19.
