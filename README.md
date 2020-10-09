@@ -9,7 +9,7 @@ population data, gross domestic product (GDP), geological information (longitude
 policies given by governments obtained from official publications through the United Nations database, Wikipedia, and news.
 
 Data sources are as follows:   
-#### (1) Index case date (date of the first confirmed patient) : 
+#### (1) The index case date (date of the first confirmed patient) : 
  - Johns Hopkins coronavirus data repository : https://github.com/CSSEGISandData/COVID-19.
  - WHO’s case reports : https://www.who.int/emergencies/diseases/novel-coronavirus-2019.
  - Wikipedia : https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic.
